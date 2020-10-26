@@ -16,6 +16,7 @@
     "installable": True,
     "depends": [
         "website",
+        "city_module",
     ],
     "data": [
         "security/ir.model.access.csv",
